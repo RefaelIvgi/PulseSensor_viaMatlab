@@ -19,7 +19,7 @@
 <h1 align="left">Steps : </h1>
 <h3 align="left">1. Open Matlab </h3>
 <h3 align="left">2. Go to 'APPS' tab and press Arduino Explorer </h3>
-<h3 align="left">3. Download and install the plugin for Arduino </h3>
+<h3 align="left">3. Download and install the Arduino Package </h3>
 
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/HeartBeatSensor-Matlab-/blob/main/hb1.PNG" >
 
